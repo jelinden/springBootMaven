@@ -1,4 +1,4 @@
-Spring boot with mave
+Spring boot with maven
 ---------
 
 Usage:
